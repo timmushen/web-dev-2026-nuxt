@@ -1,5 +1,5 @@
 <template>
     <div>
-        Footer
+        <Header pageTitle="Home Page" />
     </div>
 </template>
